@@ -1,0 +1,10 @@
+body {
+ 
+   background-color: #cccccc;
+   text-align:center;
+}
+
+td,tr, {
+    height: 50px;
+    vertical-align: bottom;
+}
